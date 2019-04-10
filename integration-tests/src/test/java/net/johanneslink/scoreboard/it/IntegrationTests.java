@@ -42,6 +42,7 @@ class IntegrationTests {
 
     private void startConsoleApp(final String... args) throws InterruptedException {
         Thread mainThread = new Thread(() -> Main.main(args));
+        mainThread.setDaemon(false);
         mainThread.start();
         mainThread.join(2000);
     }
