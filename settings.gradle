@@ -1,1 +1,1 @@
-include 'core', 'console', 'integration-tests'
+include 'core', 'console', 'integration-tests', 'spike-swingui'

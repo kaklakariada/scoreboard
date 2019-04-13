@@ -34,8 +34,3 @@ dependencies {
 	testCompile("org.netbeans:jemmy:2.2.7.5")
 
 }
-
-wrapper {
-	description = 'Generates gradlew[.bat] scripts'
-	gradleVersion = '5.2.1'
-}
