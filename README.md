@@ -1,4 +1,4 @@
 # scoreboard
 Agile Developer Workshop - Scoreboard
 
-Website is published on https://jlink-workshop.github.io/scoreboard/
+[![Build Status](https://travis-ci.org/kaklakariada/scoreboard.svg?branch=develop)](https://travis-ci.org/kaklakariada/scoreboard)
