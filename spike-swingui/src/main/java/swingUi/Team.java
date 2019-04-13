@@ -1,5 +1,5 @@
 package swingUi;
 
 public enum Team {
-	NONE, A, B
+    NONE, A, B
 }

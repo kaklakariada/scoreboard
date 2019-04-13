@@ -1,7 +1,7 @@
 package swingUi;
 
 public interface GameTimeService {
-	int getRemainingMinutes();
+    int getRemainingMinutes();
 
-	int getRemainingSeconds();
+    int getRemainingSeconds();
 }
